@@ -110,14 +110,6 @@ python main.py
 | Jane Smith | 2025-07-19 | 10:17AM | Present   |
 ```
 
----
-
-## 📷 Screenshots
-
-> *(Add screenshots of your app running, datasets, outputs, GUI if any)*
-
----
-
 ## 🤝 Contributors
 
 **Tarun Marskolhe**
